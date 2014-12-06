@@ -3,9 +3,6 @@
   "category": "override",
   "url": "index.html",
   "icon": "icon.png",
-  "bower_dependencies":{
-    "tablesaw":"latest"
-  },
   "running": false,
   "minimized": true,
   "zIndex": 0

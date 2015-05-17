@@ -1,9 +1,11 @@
 {
+  "name": "Tunnel Client",
   "title": "Tunnel Client",
   "category": "override",
   "url": "index.html",
   "icon": "icon.png",
-  "running": false,
-  "minimized": true,
-  "zIndex": 0
+  "npmDependencies": {
+  	"ws": "latest"
+  }
+
 }
